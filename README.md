@@ -1,5 +1,7 @@
 # M5DIAL Color CountDown Timer
 
+[日本語はこちら](README.ja.md)
+
 A visual countdown timer sketch for M5Dial with a segmented ring UI.
 
 ## Photos
@@ -31,6 +33,10 @@ A visual countdown timer sketch for M5Dial with a segmented ring UI.
 - Long press:
 	- READY -> toggle mute (when `ENABLE_LONG_PRESS_MUTE_TOGGLE` is enabled)
 	- Other states -> reset
+
+## Demo Video
+
+[![Watch on YouTube](https://img.youtube.com/vi/b-_D3QaZPbk/hqdefault.jpg)](https://youtube.com/shorts/b-_D3QaZPbk)
 
 ## Configuration
 

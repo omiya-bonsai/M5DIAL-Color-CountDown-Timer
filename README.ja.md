@@ -1,5 +1,7 @@
 # M5DIAL Color CountDown Timer
 
+[English](README.md)
+
 M5Dial 向けの視覚重視カウントダウンタイマーです。
 
 ## 写真
@@ -31,6 +33,10 @@ M5Dial 向けの視覚重視カウントダウンタイマーです。
 - 長押し:
 	- READY -> ミュート切替（`ENABLE_LONG_PRESS_MUTE_TOGGLE` が有効時）
 	- READY 以外 -> リセット
+
+## デモ動画
+
+[![YouTube で見る](https://img.youtube.com/vi/b-_D3QaZPbk/hqdefault.jpg)](https://youtube.com/shorts/b-_D3QaZPbk)
 
 ## 設定
 
